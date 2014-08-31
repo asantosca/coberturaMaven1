@@ -1,4 +1,4 @@
-Fully functional Cobertura project written in Maven using only one module.
+Fully functional Cobertura project written in Maven using only one project.
 
 Environment:
 
